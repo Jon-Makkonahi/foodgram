@@ -26,7 +26,7 @@ git clone git@github.com:Jon-Makkonahi/foodgram.git
 ```
 
 ```
-cd foodgram-project-react
+cd foodgram
 ```
 
 Cоздать и активировать виртуальное окружение:
